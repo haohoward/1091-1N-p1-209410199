@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fff;
+    columns: #000;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.學年表{
+background-color: rgb(221, 57, 172);
+}
+
+.橫排{
+    background-color: cyan;
+}
+
+.聯絡{
+    background-color: #000;
+    color: rgb(241, 238, 238);
+}
+
+.格子{
+    background-color: rgb(144, 221, 114);
+    width: 20px;
+    height: 20px;
+}
+td{
+    
+    width: 100px;
+    height: 50px;
+}
+
+.名字{
+   background-color: darkblue;
+}
+
+.節{
+background-color: darkorange;
+}
